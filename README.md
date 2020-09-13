@@ -1,5 +1,5 @@
 # Exkii
-This is a simple lib to convert images to ASCII
+This is a simple lib to convert text to ASCII banner
 
 ## Installation
 

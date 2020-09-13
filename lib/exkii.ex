@@ -15,4 +15,8 @@ defmodule Exkii do
   def hello do
     :world
   end
+
+  def reply(text) do
+    IO.puts text
+  end
 end
