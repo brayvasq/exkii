@@ -3,6 +3,6 @@ defmodule ExkiiTest do
   doctest Exkii
 
   test "greets the world" do
-    assert Exkii.hello() == :world
+    assert Exkii.name() == :exkii
   end
 end
